@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Color Change</string>
+    <string name="magic_colors">Magic Colors</string>
+    <string name="example">Example</string>
+    <string name="reset">Reset</string>
+</resources>
